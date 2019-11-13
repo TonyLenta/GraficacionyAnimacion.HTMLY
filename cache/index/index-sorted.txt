@@ -1,0 +1,1 @@
+a:1:{i:0;a:4:{s:7:"dirname";s:39:"content/anthony/blog/uncategorized/post";s:8:"basename";s:59:"2019-11-13-15-43-22_cms-htmly-dockerizado_htmly-blog-cms.md";s:9:"extension";s:2:"md";s:8:"filename";s:56:"2019-11-13-15-43-22_cms-htmly-dockerizado_htmly-blog-cms";}}
